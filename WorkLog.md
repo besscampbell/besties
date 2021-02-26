@@ -9,3 +9,4 @@
 12:00 Working on Component Tree
 1:30 Add Component Tree
 2:00 Add more info to Read me
+2:30 Watching React Native [video](https://www.lynda.com/React-Native-tutorials/React-Native-Essential-Training-REVISION-Q2-2020/2829011-2.html) 
