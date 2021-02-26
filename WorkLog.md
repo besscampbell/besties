@@ -6,3 +6,4 @@
 10:30 Still following along with the tutorial
 11:20 Completed tutorial [follow-up](https://docs.expo.io/tutorial/follow-up/)
 11:40 Finished Xcode installation
+12:00 Working on Component Tree
