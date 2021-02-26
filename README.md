@@ -21,6 +21,9 @@
 
 # 💁🏽‍♀️ User Stories
 
+# 📊 Components Diagram
+
+![Components Diagram](./ReadMeAssets/Bff-component-diagram.png)
 
 # 🧗🏼‍♀️ Stretch Goals
 
