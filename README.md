@@ -36,8 +36,8 @@
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Git/GitHub](https://github.com/)
-* [React JS](https://reactjs.org/)
-    **_This project was built with the `create-react-app` command._**
+* [React Native]()
+* [JavaScript]()
 * [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Bootstrap](https://getbootstrap.com/)
 * [Node.js](https://nodejs.org/en/)
@@ -45,7 +45,10 @@
 * [Babel](https://babeljs.io/)
 * [Eslint](https://eslint.org/)
 * [Webpack](https://webpack.js.org/)
+* [Expo CLI]()
+* [XCode]()
 * [DrawIO](https://www.draw.io/)
+
 
 # 💾 Installation Requirements
 
