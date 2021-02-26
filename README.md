@@ -1,4 +1,4 @@
-# <div align="center">Becomme bffs</div>
+# <div align="center">Become bffs</div>
 
 <p align="center">
     <br>
@@ -13,11 +13,12 @@
 
 # ℹ️ Description
 
- 
+ What a feeling when you meet someone that you have a connection with. What do you do with that connection if it's not a romantic one? The hesistation to open up and time constraints impede deep connections from developing. What if there was a space where people could commit to developing a relationship and do so on their own schedule? Becoming BFFs will create a platform for two people to form a deeper connection by being prompted to share stories, facts, and answers to the deep questions about their lives.
+
 
 # ✅ Objectives
 
-
+ Create a space for two people to share intimacy on the internet.
 
 # 💁🏽‍♀️ User Stories
 
@@ -51,6 +52,11 @@
 * [Expo CLI]()
 * [XCode]()
 * [DrawIO](https://www.draw.io/)
+
+# 📰 Other Resources
+
+* [The Experimental Generation of Interpersonal Closeness by Arthur Aron](https://journals.sagepub.com/doi/pdf/10.1177/0146167297234003)
+* [To Fall in Love With Anyone, Do This by Mandy Len Catron](https://www.nytimes.com/2015/01/11/style/modern-love-to-fall-in-love-with-anyone-do-this.html)
 
 
 # 💾 Installation Requirements
