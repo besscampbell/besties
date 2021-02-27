@@ -11,3 +11,4 @@
 2:00 Add more info to Read me
 2:30 Watching React Native [video](https://www.lynda.com/React-Native-tutorials/React-Native-Essential-Training-REVISION-Q2-2020/2829011-2.html)
 3:30 Still watching tutorial
+4:30 Continuing to watch tutorials and tinker around with small examples
